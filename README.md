@@ -2,7 +2,7 @@ Programa console aplication desenvolvido para controle de finanças pessoal, uti
 
 Projeto desenvolvido utilizando C#, .NET, Entity Framework, Docker e SqlServer, feito para treinar minhas habilidades em acesso a dados com o banco SqlServer utilizando EF. Sistema esse que é capaz de fazer CRUDs completos para uma melhor gestão.
 
-Sistema contém inúmeros tipos de relacionamentos envolvendo o banco de dados, feito pelo EF, tanto relacionamento UM para MUITOS, quanto MUITO para MUITOS.
+Sistema contém inúmeros tipos de relacionamentos envolvendo o banco de dados, feito pelo EF, tanto relacionamento UM para MUITOS, quanto MUITO para MUITOS. SISTEMA RODANDO LOCALMENTE !!
   
 Com o sistema é possível realizar:
 
